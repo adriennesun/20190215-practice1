@@ -4,3 +4,5 @@ This is a practice!
 Make some changes!
 
 Test again!
+
+Test staged
